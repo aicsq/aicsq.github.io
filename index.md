@@ -2,7 +2,7 @@
 
 **Artificial Intelligence Computer Science**
 
-**Welcome to aicsQ**
+## Welcome to aicsQ
 
 ### We don't use Cookies. Feel Free!
 
