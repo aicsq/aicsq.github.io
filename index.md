@@ -6,10 +6,10 @@
 
 ## Contact
 
-**URL: aicsq.github.io**
+**URL: [aicsq.github.io](https://aicsq.github.io)**
 
-**E-Mail: [aicsq.github@gmai.com](https://aicsq.github@gmai.com**
+**E-Mail: [aicsq.github@gmai.com](https://aicsq.github@gmai.com)**
 
 Copyright © 2019 aicsQ
 
-[Image](src)
+[Image](https://aicsq.github.io/aicsQ.png)
