@@ -12,4 +12,4 @@
 
 Copyright © 2019 aicsQ
 
-[Image](https://aicsq.github.io/aicsQ.png)
+[Image](aicsQ.png)
