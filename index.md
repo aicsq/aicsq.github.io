@@ -4,7 +4,7 @@
 
 **Welcome to aicsQ**
 
-## The Future
+### We don't use Cookies. Feel Free!
 
 ### Contact
 
