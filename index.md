@@ -1,6 +1,6 @@
 # aicsQ
 
-**Artificial Intelligence Computer Science Q**
+**Artificial Intelligence Computer Science**
 
 **Welcome to aicsQ**
 
@@ -11,5 +11,3 @@
 **E-Mail: [aicsq.github@gmai.com](https://aicsq.github@gmai.com)**
 
 Copyright © 2019 aicsQ
-
-[Image](aicsQ.png)
