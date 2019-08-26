@@ -8,8 +8,6 @@
 
 Welcome to aicsQ
 
-We don't use Cookies. Feel Free!
-
 ### Contact
 
 **URL: [aicsQ.github.io](https://aicsq.github.io)**
