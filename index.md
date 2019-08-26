@@ -1,5 +1,5 @@
 <head>
-<link href="https://aicsq.github.io/aicsQ%20favicon.ico" rel="shortcut icon">
+  <link rel="shortcut icon" href="/aicsQ%20favicon.ico">
 </head>
 
 # aicsQ
