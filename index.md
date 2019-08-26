@@ -6,6 +6,8 @@
 
 **Artificial Intelligence Computer Science**
 
+[Home](https://aicsq.github.io)   [About](https://aicsq.github.io/about)   [Navigatio](https://aicsq.github.io/navigation)
+
 ## Welcome to aicsQ
 
 **We don't use Cookies. Feel Free!**
