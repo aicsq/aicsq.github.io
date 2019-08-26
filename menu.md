@@ -6,16 +6,34 @@
 
 ### Menu aicsQ
 
-PRODUCTS
+### PRODUCTS
+Performance Analysis
 
-PROJECTS
+Networks
 
-EVENTS
+Security & Cryptography
 
-NEWS
+Databases
 
-RESEARCH
+Scientific Computing
 
+Artificial Intelligence AI
+
+Software Engineering SE
+
+Web Development & Applications Apps
+
+SEO | Search Engine Optimization
+
+SMO | Social Media Optimization
+
+Graphics & Visualization
+
+Photos, Videos & Animations
+### PROJECTS
+### EVENTS
+### NEWS
+### RESEARCH
 ### Contact
 
 **URL: [aicsQ.github.io](https://aicsq.github.io)**
