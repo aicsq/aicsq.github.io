@@ -10,7 +10,7 @@ Legal Disclosure
 
 Information in accordance with Section 5 TMG
 
-**aicsQ**
+**aicsQ Universal AiA**
 
 Ben Wolf
 
