@@ -1,4 +1,4 @@
-# aicsQ
+# aicsQ <img src="https://aicsq.github.io/aicsQ.png">
 
 **Artificial Intelligence Computer Science**
 
