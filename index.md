@@ -6,7 +6,7 @@
 
 ### Home aicsQ
 
-<img src="https://aicsq.github.io/aicsQ 180.png" align="middle">
+<img src="https://aicsq.github.io/aicsQ 200.png" align="middle">
 
 ### Contact
 
