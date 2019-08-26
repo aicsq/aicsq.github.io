@@ -8,9 +8,9 @@
 
 <form method="POST" action="https://formspree.io/aicsQ.github@gmail.com">
   <input type="email" name="email" placeholder="Your email">
-  
+  <br>
   <textarea name="message" placeholder="Message"></textarea>
-  
+  <br>
   <button type="submit">Send</button>
 </form>
 
