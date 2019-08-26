@@ -8,7 +8,7 @@
 
 Welcome to aicsQ
 
-<img src="https://aicsq.github.io/aicsQ 180.png" align="middle">
+<img src="https://aicsq.github.io/aicsQ 150.png" align="middle">
 
 ### Contact
 
