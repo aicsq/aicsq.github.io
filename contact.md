@@ -6,32 +6,44 @@
 
 ### Contact aicsQ
 
-<div class="container">  
-  <form id="contact" action="" method="post">
-    <h3>Quick Contact</h3>
-    <h4>Contact us today, and get reply with in 24 hours!</h4>
-    <fieldset>
-      <input placeholder="Your name" type="text" tabindex="1" required autofocus>
-    </fieldset>
-    <fieldset>
-      <input placeholder="Your Email Address" type="email" tabindex="2" required>
-    </fieldset>
-    <fieldset>
-      <input placeholder="Your Phone Number" type="tel" tabindex="3" required>
-    </fieldset>
-    <fieldset>
-      <input placeholder="Your Web Site starts with http://" type="url" tabindex="4" required>
-    </fieldset>
-    <fieldset>
-      <textarea placeholder="Type your Message Here...." tabindex="5" required></textarea>
-    </fieldset>
-    <fieldset>
-      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
-    </fieldset>
-  </form>
- 
-  
-</div>
+<!-- Begin Response-O-Matic Form -->
+<!-- DO NOT EDIT YOUR FORM HERE, PLEASE LOG IN AND EDIT AT RESPONSE-O-MATIC.COM -->
+<form enctype="multipart/form-data" method="post" action="//www.response-o-matic.com/mail.php" accept-charset="UTF-8">
+	<div>
+		<input type="hidden" name="acctid" id="acctid" value="3qqld2bq63dd9mw1" />
+		<input type="hidden" name="formid" id="formid" value="1312694" />
+		<input type="hidden" name="required_vars" id="required_vars" value="name,email" />
+	</div>
+	<table cellspacing="5" cellpadding="5" border="0">
+		<tr>
+			<td valign="top">
+				<strong>Name:</strong>
+			</td>
+			<td valign="top">
+				<input type="text" name="name" id="name" size="40" value="" />
+				
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Email Address:</strong>
+			</td>
+			<td valign="top">
+				<input type="text" name="email" id="email" size="40" value="" />
+				
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center">
+				<input type="submit" value=" Submit Form " />
+			</td>
+		</tr>
+	</table>
+</form>
+<br><center><font face="Arial, Helvetica" size="1"><b>
+This <a href="http://www.response-o-matic.com">HTML form</a> was created by Freedback.
+</b></font></center>
+<!-- End Response-O-Matic Form -->
 
 ### Contact
 **Phone: [0031 6 8744 5957](tel:0031687445957)**
