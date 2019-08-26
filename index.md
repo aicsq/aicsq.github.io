@@ -4,7 +4,7 @@
 
 ## [Home](https://aicsq.github.io)&nbsp;&nbsp;[About](https://aicsq.github.io/about)&nbsp;&nbsp;[Legal](https://aicsq.github.io/legal)
 
-**Home aicsQ**
+### Home aicsQ
 
 Welcome to aicsQ
 
