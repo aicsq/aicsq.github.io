@@ -12,7 +12,8 @@ We are serving small- middle- and large business with Artificial Intelligence Co
 
 Our philosophy is: "Universal We Stay"
 
-<img src="https://aicsq.github.io/Ben Wolf 300.jpg">
+<img src="https://aicsq.github.io/Ben Wolf 320.jpg">
+Ben Wolf Computer Scientist since 1993
 
 ## Contact
 
