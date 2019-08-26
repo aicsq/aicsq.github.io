@@ -10,8 +10,6 @@ aicsQ is a Universal Artificial Intelligence Computer Science Agency.
 
 We are serving small- middle- and large business with Artificial Intelligence Computer Science.
 
-Our philosophy is: "Universal We Stay"
-
 <img src="https://aicsq.github.io/Ben Wolf 320.jpg">
 
 Ben Wolf, Computer Scientist since 1993
