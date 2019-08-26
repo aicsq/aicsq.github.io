@@ -14,7 +14,7 @@ Our philosophy is: "Universal We Stay"
 
 <img src="https://aicsq.github.io/Ben Wolf 320.jpg">
 
-Ben Wolf | Computer Scientist since 1993
+Ben Wolf, Computer Scientist since 1993
 
 ## Contact
 
