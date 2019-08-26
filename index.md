@@ -2,8 +2,6 @@
 <link href="https://aicsq.github.io/aicsQ%20favicon.ico" rel="shortcut icon">
 </head>
 
-aicsQ favicon.ico
-
 # aicsQ
 
 **Artificial Intelligence Computer Science**
