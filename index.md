@@ -4,9 +4,11 @@
 
 ## [Home](https://aicsq.github.io)&nbsp;&nbsp;[About](https://aicsq.github.io/about)&nbsp;&nbsp;[Legal](https://aicsq.github.io/legal)
 
-## Welcome to aicsQ
+**Home aicsQ**
 
-**We don't use Cookies. Feel Free!**
+Welcome to aicsQ
+
+We don't use Cookies. Feel Free!
 
 ## Contact
 
