@@ -4,7 +4,7 @@
 
 ## [Home](https://aicsq.github.io)&nbsp;&nbsp;[About](https://aicsq.github.io/about)&nbsp;&nbsp;[Legal](https://aicsq.github.io/legal)
 
-**About aicsQ**
+### About aicsQ
 
 aicsQ is a Universal Artificial Intelligence Computer Science Agency.
 
@@ -16,7 +16,7 @@ Our philosophy is: "Universal We Stay"
 
 Ben Wolf, Computer Scientist since 1993
 
-## Contact
+### Contact
 
 **URL: [aicsQ.github.io](https://aicsq.github.io)**
 
