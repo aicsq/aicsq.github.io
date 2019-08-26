@@ -4,7 +4,7 @@
 
 ## [Home](https://aicsq.github.io)&nbsp;&nbsp;[About](https://aicsq.github.io/about)&nbsp;&nbsp;[Legal](https://aicsq.github.io/legal)
 
-**Legal aicsQ**
+### Legal aicsQ
 
 Legal Disclosure
 
@@ -20,7 +20,7 @@ Alexanderplatz 1
 
 Germany
 
-## Contact
+### Contact
 
 **URL: [aicsQ.github.io](https://aicsq.github.io)**
 
