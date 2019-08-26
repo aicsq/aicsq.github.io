@@ -8,6 +8,8 @@
 
 Welcome to aicsQ
 
+<img src="https://aicsq.github.io/aicsQ 200.png" align="middle">
+
 ### Contact
 
 **URL: [aicsQ.github.io](https://aicsq.github.io)**
