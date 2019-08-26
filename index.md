@@ -1,4 +1,6 @@
-# aicsQ <img src="https://aicsq.github.io/aicsQ.png&w=100&h=100">
+<link rel="shortcut icon" type="image/x-icon" href="https://aicsq.github.io/aicsQ 32.png">
+
+# aicsQ <img src="https://aicsq.github.io/aicsQ 50.png">
 
 **Artificial Intelligence Computer Science**
 
