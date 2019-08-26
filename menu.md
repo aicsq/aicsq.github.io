@@ -15,17 +15,17 @@ Security & Cryptography
 
 Databases
 
-Scientific Computing
-
 Artificial Intelligence AI
+
+Computer Science CS
 
 Software Engineering SE
 
 Web Development & Applications Apps
 
-SEO | Search Engine Optimization
+Search Engine Optimization SEO
 
-SMO | Social Media Optimization
+Social Media Optimization SMO
 
 Graphics & Visualization
 
