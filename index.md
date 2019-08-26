@@ -1,6 +1,6 @@
-<head>
-<link href="https://aicsq.github.io/aicsQ favicon.ico" rel="shortcut icon">
-</head>
+<link href="https://aicsq.github.io/aicsQ%20favicon.ico" rel="shortcut icon">
+
+aicsQ favicon.ico
 
 # aicsQ
 
