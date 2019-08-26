@@ -1,4 +1,4 @@
-<img src="https://aicsq.github.io/aicsQ 50.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font size="7">aicsQ</font></b>
+<b><font size="7">aicsQ</font></b><img src="https://aicsq.github.io/aicsQ 50.png" align="right">
 
 **Artificial Intelligence Computer Science**
 
