@@ -6,8 +6,6 @@
 
 ### Contact aicsQ
 
-<!-- Begin Response-O-Matic Form -->
-<!-- DO NOT EDIT YOUR FORM HERE, PLEASE LOG IN AND EDIT AT RESPONSE-O-MATIC.COM -->
 <form enctype="multipart/form-data" method="post" action="//www.response-o-matic.com/mail.php" accept-charset="UTF-8">
 	<div>
 		<input type="hidden" name="acctid" id="acctid" value="3qqld2bq63dd9mw1" />
@@ -40,10 +38,6 @@
 		</tr>
 	</table>
 </form>
-<br><center><font face="Arial, Helvetica" size="1"><b>
-This <a href="http://www.response-o-matic.com">HTML form</a> was created by Freedback.
-</b></font></center>
-<!-- End Response-O-Matic Form -->
 
 ### Contact
 **Phone: [0031 6 8744 5957](tel:0031687445957)**
