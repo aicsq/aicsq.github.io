@@ -6,7 +6,7 @@
 
 ### About aicsQ
 
-aicsQ is an Artificial intelligence Agency (AiA) by Ben Wolf, Computer Scientist since 1993.
+aicsQ is an Artificial intelligence Agency (AiA) by Ben Wolf, MSc since 1993.
 
 <img src="https://aicsq.github.io/Ben Wolf 320.jpg">
 
