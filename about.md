@@ -1,10 +1,10 @@
-# aicsQ
+<b><font size="7">aicsQ</font></b>
 
 **Artificial Intelligence Computer Science**
 
 ## [Home](https://aicsq.github.io)&nbsp;&nbsp;[About](https://aicsq.github.io/about)&nbsp;&nbsp;[Legal](https://aicsq.github.io/legal)
 
-## About aicsQ
+**About aicsQ**
 
 aicsQ is a Universal Artificial Intelligence Computer Science Agency.
 
