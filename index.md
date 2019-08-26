@@ -1,7 +1,3 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="aicsQ%20favicon.ico">
-</head>
-
 # aicsQ
 
 **Artificial Intelligence Computer Science**
