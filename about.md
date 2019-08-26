@@ -12,7 +12,7 @@ We are serving small- middle- and large business with Artificial Intelligence Co
 
 Our philosophy is: "Universal We Stay"
 
-<img src="https://aicsq.github.io/aicsQ 50.png">
+<img src="https://aicsq.github.io/Ben Wolf 250.jpgg">
 
 ## Contact
 
