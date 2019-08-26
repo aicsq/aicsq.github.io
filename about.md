@@ -6,9 +6,7 @@
 
 ### About aicsQ
 
-aicsQ is a Universal Artificial Intelligence Computer Science Agency.
-
-We are serving small- middle- and large business with Artificial Intelligence Computer Science.
+aicsQ is a Universal Artificial intelligence Agency (AiA).
 
 <img src="https://aicsq.github.io/Ben Wolf 320.jpg">
 
