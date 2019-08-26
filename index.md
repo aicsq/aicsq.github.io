@@ -1,4 +1,4 @@
-<font size="7">aicsQ</font>
+<b><font size="7">aicsQ</font></b>
 
 **Artificial Intelligence Computer Science**
 
