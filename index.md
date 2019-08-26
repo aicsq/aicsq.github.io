@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="https://aicsq.github.io/aicsQ 32.png">
 
-# aicsQ <img src="https://aicsq.github.io/aicsQ 50.png">
+# aicsQ
 
 **Artificial Intelligence Computer Science**
 
@@ -16,4 +16,4 @@
 
 **Phone: [0031 6 8744 5957](tel:0031687445957)**
 
-Copyright © 2019 aicsQ
+Copyright © 2019 aicsQ <img src="https://aicsq.github.io/aicsQ 50.png">
