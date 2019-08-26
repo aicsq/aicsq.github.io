@@ -2,7 +2,7 @@
 
 **Artificial Intelligence Computer Science**
 
-## [Home](https://aicsq.github.io)&nbsp;&nbsp;[About](https://aicsq.github.io/about)
+## [Home](https://aicsq.github.io)&nbsp;&nbsp;[About](https://aicsq.github.io/about)&nbsp;&nbsp;[Legal](https://aicsq.github.io/legal)
 
 ## Welcome to aicsQ
 
