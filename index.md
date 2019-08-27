@@ -13,7 +13,7 @@
 
 **E-Mail: [aicsQ.github@gmail.com](https://aicsq.github@gmail.com)**
 
-**URL: [https://aicsQ.github.io](https://aicsq.github.io)
+**URL: [https://aicsQ.github.io](https://aicsq.github.io)**
 
 **[Legal](https://aicsq.github.io/legal)**
 
