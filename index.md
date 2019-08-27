@@ -13,6 +13,6 @@
 
 **E-Mail: [aicsQ.github@gmail.com](https://aicsq.github@gmail.com)**
 
-**URL: [aicsQ.github.io](https://aicsq.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Legal](https://aicsq.github.io/legal)**
+**URL: [https://aicsQ.github.io](https://aicsq.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Legal](https://aicsq.github.io/legal)**
 
 Copyright © 2019 aicsQ
