@@ -15,6 +15,8 @@
 
 **URL: [https://aicsQ.github.io](https://aicsq.github.io)**
 
+**[twitter.com/aicsQ](https://twitter.com/aicsQ)
+
 **[Legal](https://aicsq.github.io/legal)**
 
 Copyright © 2019 aicsQ
